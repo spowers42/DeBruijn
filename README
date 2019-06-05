@@ -1,0 +1,1 @@
+DeBruijn is a small utility module that extends the Graph package to follow paths within a DeBruijn graph.  
